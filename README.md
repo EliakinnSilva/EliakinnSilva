@@ -26,7 +26,7 @@ Sou Estudante do Curso Superior de Sistemas Para Internet
 
 <div align = "left">
 <img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliakinnSilva&show_icons=true&theme=bear&count_private=true"/>
-<img height = "220em" src="https://github-readme-stats.vercel.app/api?username=EliakinnSilva&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameEliakinnSilva&show_icons=true&bg_color=00000000)
 </div>
 
 
