@@ -9,7 +9,7 @@
  </div>
 Sou Estudante do Curso Superior de Sistemas Para Internet 
 
-- 👨‍🎓 Estudante Estudante do Curso Superior de Sistemas Para Internet na [FICR](ficr.catolica.edu.br)👨‍🎓
+- 👨‍🎓Estudante do Curso Superior de Sistemas Para Internet na [FICR](ficr.catolica.edu.br)👨‍🎓
 - ❤ Fã de FrontEnd
 - 👩‍💻 Buscando mais conhecimento.
 
