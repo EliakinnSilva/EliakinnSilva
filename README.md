@@ -1,5 +1,5 @@
-<h3><b> Meu Portifolio</b></h3>
-<a>https://eliakinnsilva.github.io/EliakinnEnoquePortifolio//<a>;
+<h3><b> Meu Portifolio </b></h3>
+<p><a>https://eliakinnsilva.github.io/EliakinnEnoquePortifolio//<a></p>
 <img src = "banner.gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
